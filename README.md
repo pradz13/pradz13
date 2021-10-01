@@ -2,7 +2,7 @@
 - 👀 I’m working on Open Source Technologies involving the Java Tech Stack
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on interesting projects that can add value to my career
-- 📫 I can be reched on my email id pradipta.nag2@gmail.com
+- 📫 I can be reached on my email id pradipta.nag2@gmail.com
 
 <!---
 pradz13/pradz13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
