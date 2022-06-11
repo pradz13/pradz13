@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pradipta Nag, Software Engineer by profession with more than 13 years of industry experience
+- 👋 Hi, I’m Pradipta Nag, Software Engineer by profession with more than 14 years of industry experience
 - 👀 I’m working on Open Source Technologies involving the Java Tech Stack
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on interesting projects that can add value to my career
